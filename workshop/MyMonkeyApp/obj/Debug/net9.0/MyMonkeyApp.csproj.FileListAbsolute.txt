@@ -1,0 +1,15 @@
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\bin\Debug\net9.0\MyMonkeyApp.exe
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\bin\Debug\net9.0\MyMonkeyApp.deps.json
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\bin\Debug\net9.0\MyMonkeyApp.runtimeconfig.json
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\bin\Debug\net9.0\MyMonkeyApp.dll
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\bin\Debug\net9.0\MyMonkeyApp.pdb
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\obj\Debug\net9.0\MyMonkeyApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\obj\Debug\net9.0\MyMonkeyApp.AssemblyInfoInputs.cache
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\obj\Debug\net9.0\MyMonkeyApp.AssemblyInfo.cs
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\obj\Debug\net9.0\MyMonkeyApp.csproj.CoreCompileInputs.cache
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\obj\Debug\net9.0\MyMonkeyApp.sourcelink.json
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\obj\Debug\net9.0\MyMonkeyApp.dll
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\obj\Debug\net9.0\refint\MyMonkeyApp.dll
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\obj\Debug\net9.0\MyMonkeyApp.pdb
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\obj\Debug\net9.0\MyMonkeyApp.genruntimeconfig.cache
+C:\Users\Admin\mcp-workshop-dotnet\workshop\MyMonkeyApp\obj\Debug\net9.0\ref\MyMonkeyApp.dll
